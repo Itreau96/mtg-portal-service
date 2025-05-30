@@ -1,6 +1,6 @@
 import asyncio
 from fastapi import APIRouter
-from cards.models import PagedRequest
+from api.models import PagedRequest
 
 router = APIRouter()
 
